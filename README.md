@@ -1,6 +1,6 @@
 # Percy Jackson
 
-A little corner of the internet dedicated to Percy Jackson, Greek mythology, and a book series that I AM ABSOLUTELY OBSESSED WITH. 
+A little corner of the internet dedicated to a book series that I AM ABSOLUTELY OBSESSED WITH. 
 
 This is a small fan website about the world of Percy Jackson and the Olympians by Rick Riordan. It has a bit about the premise, Camp Half-Blood, some of the characters, and the books. Basically, an excuse to spend time thinking about Percy Jackson and call it a coding project.
 
