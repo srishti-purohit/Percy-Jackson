@@ -1,0 +1,66 @@
+body {
+  font-family: "EB Garamond", Georgia, serif;
+  font-size: 1.2rem;
+  background: #dcedf9;
+  color: #5c6168;
+  max-width: 680px;
+  margin: 50px auto;
+  padding: 0 20px;
+  line-height: 1.65;
+}
+
+h1, h2, h3 {
+  font-family: "Bebas Neue", Impact, sans-serif;
+  font-weight: normal;
+  color: #4a4f56;
+  letter-spacing: 1px;
+}
+
+h1 { font-size: 3.4rem; line-height: 1; margin-bottom: 20px; }
+
+h2 {
+  font-size: 2.2rem;
+  margin-top: 56px;
+}
+
+h3 { font-size: 1.5rem; margin: 28px 0 0; color: #4a4f56; }
+
+.pic {
+  background: #c6e0f2;
+  color: #7b8791;
+  text-align: center;
+  padding: 70px 10px;
+  margin: 24px 0;
+  font-style: italic;
+  font-size: 1rem;
+}
+
+.pic.small { padding: 40px 10px; }
+
+.face {
+  background: #c6e0f2;
+  color: #7b8791;
+  text-align: center;
+  font-style: italic;
+  font-size: 0.95rem;
+  padding: 55px 10px;
+  margin-top: 28px;
+}
+
+.face + h3 { margin-top: 10px; }
+
+.covers {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
+  gap: 12px;
+  margin: 24px 0;
+}
+
+.cover {
+  background: #c6e0f2;
+  color: #7b8791;
+  text-align: center;
+  font-style: italic;
+  font-size: 0.95rem;
+  padding: 60px 6px;
+}
