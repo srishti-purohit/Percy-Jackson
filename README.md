@@ -2,7 +2,7 @@
 
 A little corner of the internet dedicated to a book series that I AM ABSOLUTELY OBSESSED WITH. 
 
-This is a small fan website about the world of Percy Jackson and the Olympians by Rick Riordan. It has a bit about the premise, Camp Half-Blood, some of the characters, and the books.
+This is a small fan webpage about the world of Percy Jackson and the Olympians by Rick Riordan. It has a bit about the premise, Camp Half-Blood, some of the characters, and the books.
 
 ## Made with
 
